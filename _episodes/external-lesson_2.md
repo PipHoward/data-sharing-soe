@@ -78,6 +78,11 @@ In this lesson, we will discuss a condensed form of the [DCC guide on deciding w
 > Are there other considerations that apply to your data?
 {: .discussion}
 
+> ## Seeking consent to share
+>
+>[UK Data Service guidance on seeking participant consent to share data](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/consent-data-sharing.aspx)
+{: .checklist}
+
 > ## Costs of sharing
 > * **Curation**: getting the data in an open format; adding metadata and creating a data dictionary.
 > * **Storage**: housing in a repository and keeping available.

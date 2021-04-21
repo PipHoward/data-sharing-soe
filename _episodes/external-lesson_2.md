@@ -29,20 +29,6 @@ They are responsible for the widely-used [DMPonline data management plan form](h
 
 In this lesson, we will discuss a condensed form of the [DCC guide on deciding what data to keep](https://www.dcc.ac.uk/guidance/how-guides/five-steps-decide-what-data-keep). 
 
-> ## What could the data be used for?
-> * **Reproducibility**: ensuring your data are consistent with the reported results.
-> * **Reanalysis/Meta-analysis**: answering different questions to the ones already asked; answering the same question analysed in a different way; contributing to a wider understanding through integration with other similar data.
-> * **Common example**: acting as a reference point to facilitate discussion and shared understandings; contributing to a body of observed facts that theories must account for.
-> * **Teaching**: allowing learners to perform analysis on real data.
-> * **Personal backup**: preserving access across computers and institutions.
-{: .checklist}
-
-> ## Discussion `10 min`
-> Which of the reasons above are relevant to your research?
-> 
-> Are there other reasons you might share data?
-{: .discussion}
-
 > ## What policies apply?
 > * **Journal policies**
 > * **Institutional policies**

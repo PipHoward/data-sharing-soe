@@ -26,6 +26,6 @@ You can easily access your data from another computer without needing to remembe
 You can share the data with your supervisor/collaborators easily.
 When you come to need the data in a few months or years, you won't have to worry about tracking it down or whether it was deleted, because you know where it is, and you can cite it with a DOI.
 
-Stay in touch, and let us know how you get on with born open data: if you need a refresher on how to implement born-open data you can always come back to this website, or [get in touch](mailto:{{ site.instructor_emails[0] }}?Subject={{ site.title}} Workshop) with us for further help!
+Stay in touch, and let us know how you get on with open data: if you need a refresher you can always come back to this website, or [get in touch](mailto:{{ site.instructor_emails[0] }}?Subject={{ site.title}} Workshop) with us for further help!
 
 Please do make sure that you [fill out the survey]({{ site.post_survey }}) before you end: the survey helps us and the central UKRN team understand how the training is being used and how it can be improved.

@@ -18,7 +18,7 @@ keypoints:
     the reliability of the scientific record.
   - Generally, if you can share data, do.
 day: 1
-order: 100000
+order: 81250
 missingDependencies: []
 dependencies: []
 originalRepository: mjaquiery/jspsych-born-open-data

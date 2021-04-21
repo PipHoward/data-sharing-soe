@@ -1,11 +1,10 @@
 ---
-title: Data Sharing Checklist
+title: What can be shared?
 teaching: null
 exercises: 35
 duration: null
 summary: Presenting the key points from the DCC's data sharing checklist.
 questions:
-  - Why are we sharing the data?
   - Which data should we share?
   - How much time/money will it cost?
 objectives:
@@ -13,7 +12,6 @@ objectives:
 keypoints:
   - There are several common reasons for sharing data, including verification of
     results and further analysis.
-  - Generally, if you can share data, do.
   - Sharing data has time and money costs - who is paying them?
 is-break: null
 ukrn_wb_rules: []

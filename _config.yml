@@ -2,16 +2,18 @@
 workshop_id: UOBDS20210421_01
 topic: data-sharing
 title: Data Sharing SoE
-instructors: []
-instructor_emails: []
+instructors:
+  - Philippa Howard
+instructor_emails:
+  - philippa.howard@bristol.ac.uk
 helpers: []
 start_times:
   - 09|00
 setup_files: []
 language: en
-venue: null
+venue: University of Bristol
 address: null
-country: null
+country: GB
 latitude: null
 longitude: null
 start_date: null

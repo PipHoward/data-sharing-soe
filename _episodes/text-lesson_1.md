@@ -20,8 +20,8 @@ keypoints:
   - Private projects have a 5GB storage limit; public projects 50GB
 is-break: null
 ukrn_wb_rules: []
-day: 1
-order: 237500
+day: ""
+order: 100000
 missingDependencies:
   - /fig/osf-esm.jpg
 dependencies:

@@ -1,5 +1,5 @@
 ---
-title: Considerations for data sharing
+title: Considerations and Planning
 teaching: null
 exercises: 35
 duration: null

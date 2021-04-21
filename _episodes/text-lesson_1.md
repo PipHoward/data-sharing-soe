@@ -21,7 +21,7 @@ keypoints:
 is-break: null
 ukrn_wb_rules: []
 day: 1
-order: 500000
+order: 237500
 missingDependencies:
   - /fig/osf-esm.jpg
 dependencies:

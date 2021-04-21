@@ -1,18 +1,16 @@
 ---
 title: Introduction
-teaching: 10
-exercises: 20
+teaching: 15
+exercises: 10
 questions:
-  - What is 'born open' data?
-  - Why should data be 'born open'?
+  - What is data sharing?
+  - Why is data sharing important?
 objectives:
-  - Understand how to access resources, ask for help, and give feedback.
   - Understand what the workshop will contain.
+  - Understand how to access resources, ask for help, and give feedback.
 keypoints:
-  - "'Born open' means that data are saved to a publicly-accessible location as
-    they are collected."
-  - "'Born open' data are accessed by the researcher who collects the data in
-    the same way that they are accessed by the public."
+  - Data sharing is the process of making research data available for wider
+    dissemination
 day: 1
 order: 100000
 missingDependencies: []
@@ -20,6 +18,7 @@ dependencies: []
 originalRepository: mjaquiery/jspsych-born-open-data
 summary: A friendly welcome to the workshop, a little bit of housekeeping, and
   an overview of what we'll be doing.
+duration: 30
 
 ---
 > ## Things You’ll Need To Complete This Tutorial

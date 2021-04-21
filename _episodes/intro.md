@@ -21,18 +21,8 @@ summary: A friendly welcome to the workshop, a little bit of housekeeping, and
 duration: 30
 
 ---
-> ## Things You’ll Need To Complete This Tutorial
-> #### A Webserver or Website for Online Behavioural Experiements
-> This workshop focusses on sharing research data.
-> Other kinds of online experiments will work well enough, but may take some time for us to help you implement.
-> Having a webserver capable of running PHP scripts will help in following the example section of the workshop.
->
-> If you do not have a webserver, install XAMPP using the instructions
-> in the on the [homepage]({{ "/" | relative_url }}).
-{: .prereq}
-
-Today we will be implementing a 'born open' workflow for our data collection.
-This will mean that the data we collect will be saved into a publicly-accessible repository at the time we collect it, and when we want to access it we will do so in the same way that other researchers will.
+Today we will be exploring the practicalities and principles of sharing data.
+This will mean that the data we collect will be saved into a publicly-accessible repository.
 We will do our best to ensure that our data is in line with the [FAIR sharing principles](https://www.go-fair.org/fair-principles/):
 * **F**indable
   * The data will be saved on the [OSF](https://osf.io/), where we can give them a DOI
@@ -51,19 +41,11 @@ We will do our best to ensure that our data is in line with the [FAIR sharing pr
 {: .challenge}
 
 > ## Discussion: concerns about sharing data `10 min`
-> - Why might people worry about having data 'born open'?
+> - Why might people worry about having data 'open'?
 {: .challenge}
 
 #### Overview
 
-First, we'll work through toy example where we adapt the [jsPsych quickstart project](https://github.com/mjaquiery/jsPsych-quickstart) to save data automatically to an OSF project component.
-We will cover:
-* Cloning or copying the jsPsych quickstart project
-* Setting up an OSF project component to house the data
-* Setting up an OSF Personal Access Token to authorise saving the data
-* Adapting the participant-side file (`index.html`) to add a participant id and send data to the server
-* Creating a server-side file (`save_data.php`) to send the data to the OSF
-* Fetching the data
+There are many positive reasons to share data. Sharing data opens opportunities for scientific enquiry through the promotion of innovation via new data uses and collaboration.It maximises transparency and helps ensure the reliability of the scientific record.
 
-Later, we'll have a block of time for you to create a version of one of your current projects which saves to the OSF.
-We will be here to give you as much help as you need.
+

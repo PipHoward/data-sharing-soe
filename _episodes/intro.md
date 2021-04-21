@@ -36,6 +36,20 @@ This will mean that the data we collect will be saved into a publicly-accessible
 > - Why might we want to share data?
 {: .challenge}
 
+> ## What could the data be used for?
+> * **Reproducibility**: ensuring your data are consistent with the reported results.
+> * **Reanalysis/Meta-analysis**: answering different questions to the ones already asked; answering the same question analysed in a different way; contributing to a wider understanding through integration with other similar data.
+> * **Common example**: acting as a reference point to facilitate discussion and shared understandings; contributing to a body of observed facts that theories must account for.
+> * **Teaching**: allowing learners to perform analysis on real data.
+> * **Personal backup**: preserving access across computers and institutions.
+{: .checklist}
+
+> ## Discussion `10 min`
+> Which of the reasons above are relevant to your research?
+> 
+> Are there other reasons you might share data?
+{: .discussion}
+
 > ## Discussion: concerns about sharing data `10 min`
 > - Why might people worry about sharing data
 {: .challenge}

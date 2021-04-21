@@ -25,7 +25,6 @@ originalRepository: mjaquiery/ukrn-wb-lesson-examples
 ## What data should be shared
 
 The Digital Curation Centre (DCC) has a wealth of expert guidance on data sharing and curation. 
-They are responsible for the widely-used [DMPonline data management plan form](https://dmponline.dcc.ac.uk/).
 
 In this lesson, we will discuss a condensed form of the [DCC guide on deciding what data to keep](https://www.dcc.ac.uk/guidance/how-guides/five-steps-decide-what-data-keep). 
 
@@ -81,3 +80,7 @@ Ensure consent forms do not promise to destroy the data or promise that the data
 >
 > Are there other costs that apply to sharing your data?
 {: .discussion}
+
+## Data management plan
+
+The DCC are responsible for the widely-used [DMPonline data management plan form](https://dmponline.dcc.ac.uk/).

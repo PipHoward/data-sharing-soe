@@ -1,16 +1,21 @@
 ---
 title: Introduction
 teaching: 15
-exercises: 10
+exercises: 20
 questions:
   - What is data sharing?
   - Why is data sharing important?
 objectives:
   - Understand what the workshop will contain.
   - Understand how to access resources, ask for help, and give feedback.
+  - "Identify reasons for sharing your research data. "
 keypoints:
   - Data sharing is the process of making research data available for wider
     dissemination
+  - There are many positive reasons to share data. Sharing data opens
+    opportunities for scientific enquiry through the promotion of innovation via
+    new data uses and collaboration. It maximises transparency and helps ensure
+    the reliability of the scientific record.
 day: 1
 order: 100000
 missingDependencies: []
@@ -18,7 +23,7 @@ dependencies: []
 originalRepository: mjaquiery/jspsych-born-open-data
 summary: A friendly welcome to the workshop, a little bit of housekeeping, and
   an overview of what we'll be doing.
-duration: 30
+duration: 35
 
 ---
 Today we will be exploring the practicalities and principles of sharing data.

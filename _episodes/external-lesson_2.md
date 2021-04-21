@@ -16,7 +16,7 @@ keypoints:
 is-break: null
 ukrn_wb_rules: []
 day: 1
-order: 200000
+order: 162500
 missingDependencies: []
 dependencies: []
 originalRepository: mjaquiery/ukrn-wb-lesson-examples

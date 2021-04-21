@@ -1,5 +1,5 @@
 ---
-title: What can be shared?
+title: "Planning your research: What can be shared?"
 teaching: null
 exercises: 35
 duration: null

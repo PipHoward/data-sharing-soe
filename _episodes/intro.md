@@ -24,7 +24,7 @@ summary: A friendly welcome to the workshop, a little bit of housekeeping, and
 ---
 > ## Things You’ll Need To Complete This Tutorial
 > #### A Webserver or Website for Online Behavioural Experiements
-> This workshop focusses on implementing a born open workflow for jsPsych online experiments.
+> This workshop focusses on sharing research data.
 > Other kinds of online experiments will work well enough, but may take some time for us to help you implement.
 > Having a webserver capable of running PHP scripts will help in following the example section of the workshop.
 >

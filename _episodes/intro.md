@@ -36,6 +36,37 @@ This will mean that the data we collect will be saved into a publicly-accessible
 > - Who has shared data before?
 {: .challenge}
 
+> ## Discussion why share data? `10 min`
+> - Who has tried to use shared data before?
+>   - What was the experience like?
+> - Why might we want to share data?
+{: .challenge}
+
+> ## Discussion: concerns about sharing data `10 min`
+> - Why might people worry about sharing data
+{: .challenge}
+
+## Digital Curation Centre
+
+The DCC has a wealth of expert guidance on data sharing and curation. 
+They are responsible for the widely-used [DMPonline data management plan form](https://dmponline.dcc.ac.uk/).
+
+In this lesson, we will discuss a condensed form of the [DCC guide on deciding what data to keep](https://www.dcc.ac.uk/guidance/how-guides/five-steps-decide-what-data-keep). 
+
+> ## What could the data be used for?
+> * **Reproducibility**: ensuring your data are consistent with the reported results.
+> * **Reanalysis/Meta-analysis**: answering different questions to the ones already asked; answering the same question analysed in a different way; contributing to a wider understanding through integration with other similar data.
+> * **Common example**: acting as a reference point to facilitate discussion and shared understandings; contributing to a body of observed facts that theories must account for.
+> * **Teaching**: allowing learners to perform analysis on real data.
+> * **Personal backup**: preserving access across computers and institutions.
+{: .checklist}
+
+> ## Discussion `10 min`
+> Which of the reasons above are relevant to your research?
+> 
+> Are there other reasons you might share data?
+{: .discussion}
+
 Research data should be shared in line with the [FAIR sharing principles](https://www.go-fair.org/fair-principles/):
 * **F**indable
 * **A**ccessible
@@ -46,14 +77,5 @@ Research data should be shared in line with the [FAIR sharing principles](https:
   * By giving our data an appropriate license, we will ensure people are clear about how the data can be used
   * By supplying meta-data (e.g., README, data dictionary) which explains the variables, we will make it possible for others to understand our dataset
 
-> ## Discussion why share data? `10 min`
-> - Who has tried to use shared data before?
->   - What was the experience like?
-> - Why might we want to share data?
-{: .challenge}
-
-> ## Discussion: concerns about sharing data `10 min`
-> - Why might people worry about sharing data
-{: .challenge}
 
 

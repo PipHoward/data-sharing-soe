@@ -30,12 +30,8 @@ duration: 35
 Today we will be exploring the principles and practicalities of [sharing research data](https://osf.io/wp4zu/). 
 This will mean that the data we collect will be saved into a publicly-accessible repository.
 
-> ## Poll `5 min`
-> - Who has shared data before?
-{: .challenge}
-
 > ## Discussion why share data? `10 min`
-> - Who has tried to use shared data before?
+> - Who has shared data before?
 >   - What was the experience like?
 > - Why might we want to share data?
 {: .challenge}

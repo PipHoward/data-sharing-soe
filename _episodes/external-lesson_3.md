@@ -1,5 +1,5 @@
 ---
-title: Licenses for Data
+title: How/When/Where to share?
 teaching: 5
 exercises: 25
 duration: null

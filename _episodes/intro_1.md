@@ -2,17 +2,11 @@
 title: Preparing data for sharing
 teaching: 10
 exercises: 20
-questions:
-  - What is 'born open' data?
-  - Why should data be 'born open'?
+questions: []
 objectives:
   - Understand how to access resources, ask for help, and give feedback.
-  - Understand what the workshop will contain.
-keypoints:
-  - "'Born open' means that data are saved to a publicly-accessible location as
-    they are collected."
-  - "'Born open' data are accessed by the researcher who collects the data in
-    the same way that they are accessed by the public."
+  - "Review data management. "
+keypoints: []
 day: 1
 order: 250000
 missingDependencies: []

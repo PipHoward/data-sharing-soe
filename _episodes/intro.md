@@ -26,8 +26,11 @@ summary: A friendly welcome to the workshop, a little bit of housekeeping, and
 duration: 35
 
 ---
-Today we will be exploring the practicalities and principles of sharing data.
+Today we will be exploring the principles and practicalities of sharing research data. 
 This will mean that the data we collect will be saved into a publicly-accessible repository.
+
+*As open as possible, as closed as necessary*
+
 We will do our best to ensure that our data is in line with the [FAIR sharing principles](https://www.go-fair.org/fair-principles/):
 * **F**indable
   * The data will be saved on the [OSF](https://osf.io/), where we can give them a DOI

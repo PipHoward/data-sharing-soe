@@ -1,5 +1,5 @@
 ---
-title: "Planning your research: What can be shared?"
+title: Considerations for data sharing
 teaching: null
 exercises: 35
 duration: null
@@ -28,6 +28,14 @@ The DCC has a wealth of expert guidance on data sharing and curation.
 They are responsible for the widely-used [DMPonline data management plan form](https://dmponline.dcc.ac.uk/).
 
 In this lesson, we will discuss a condensed form of the [DCC guide on deciding what data to keep](https://www.dcc.ac.uk/guidance/how-guides/five-steps-decide-what-data-keep). 
+
+> ## What could the data be used for?
+> * **Reproducibility**: ensuring your data are consistent with the reported results.
+> * **Reanalysis/Meta-analysis**: answering different questions to the ones already asked; answering the same question analysed in a different way; contributing to a wider understanding through integration with other similar data.
+> * **Common example**: acting as a reference point to facilitate discussion and shared understandings; contributing to a body of observed facts that theories must account for.
+> * **Teaching**: allowing learners to perform analysis on real data.
+> * **Personal backup**: preserving access across computers and institutions.
+{: .checklist}
 
 > ## What policies apply?
 > * **Journal policies**

@@ -16,6 +16,7 @@ keypoints:
     opportunities for scientific enquiry through the promotion of innovation via
     new data uses and collaboration. It maximises transparency and helps ensure
     the reliability of the scientific record.
+  - Generally, if you can share data, do.
 day: 1
 order: 100000
 missingDependencies: []

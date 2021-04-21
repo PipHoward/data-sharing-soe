@@ -81,7 +81,7 @@ In this lesson, we will discuss a condensed form of the [DCC guide on deciding w
 > ## Seeking consent to share
 >
 >[UK Data Service guidance on seeking participant consent to share data](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/consent-data-sharing.aspx)
-{: .checklist}
+{: .challenge}
 
 > ## Costs of sharing
 > * **Curation**: getting the data in an open format; adding metadata and creating a data dictionary.
@@ -89,8 +89,7 @@ In this lesson, we will discuss a condensed form of the [DCC guide on deciding w
 {: .checklist}
 
 > ## Discussion `5 min`
-> Who will pay these costs?
->
+> 
 > Are they time/money costs? 
 > 
 > Will they pay off in the long run? 

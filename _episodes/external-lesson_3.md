@@ -1,5 +1,5 @@
 ---
-title: How/When/Where to share?
+title: How/Where to share data?
 teaching: 5
 exercises: 25
 duration: null

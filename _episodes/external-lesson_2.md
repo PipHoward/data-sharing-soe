@@ -75,7 +75,9 @@ In this lesson, we will discuss a condensed form of the [DCC guide on deciding w
 > ## Seeking consent to share
 >
 >[UK Data Service guidance on seeking participant consent to share data](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/consent-data-sharing.aspx)
+>[Example wordings](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/consent-data-sharing/consent-forms.aspx)
 {: .challenge}
+
 
 > ## Costs of sharing
 > * **Curation**: getting the data in an open format; adding metadata and creating a data dictionary.

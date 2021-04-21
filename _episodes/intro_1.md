@@ -14,7 +14,7 @@ keypoints:
   - "'Born open' data are accessed by the researcher who collects the data in
     the same way that they are accessed by the public."
 day: 1
-order: 600000
+order: 250000
 missingDependencies: []
 dependencies: []
 originalRepository: mjaquiery/jspsych-born-open-data

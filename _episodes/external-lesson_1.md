@@ -1,5 +1,5 @@
 ---
-title: Anonymizing Quantitative Data
+title: Anonymizing Data
 teaching: null
 exercises: 30
 duration: null
@@ -11,7 +11,8 @@ questions:
   - How do we anonymize data?
 objectives:
   - Gain an understanding of how to anonymise data
-  - Create a checklist of anonymisation steps for quantitative data
+  - Create a checklist of anonymisation steps for quantitative and/or
+    qualitative data
 keypoints:
   - Anonymised data are easier to share legally.
   - Remove direct identifiers
@@ -77,3 +78,8 @@ Pseudonymisation is the process of turning data from which individual people can
 Location data renders people especially identifiable. 
 You can use the tool at [https://cpg.doc.ic.ac.uk/individual-risk/](https://cpg.doc.ic.ac.uk/individual-risk/) to explore this - enter some details and scroll down on the second page to where you can add extra attributes. 
 What happens to the identifiability when you check or uncheck the postcode field?
+
+## Further Guidance
+
+> [UK Data Service guidance for anonymising qualitative data](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/anonymisation/qualitative.aspx)
+>[UK Data Service guidance for anonymising quantitative data](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/anonymisation.aspx)

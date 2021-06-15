@@ -37,7 +37,6 @@ Today we will be exploring the principles and practicalities of [sharing researc
 > - Why might we want to share data?
 > - Who has shared data before?
 >   - What was the experience like?
-> 
 {: .challenge}
 
 > ## Discussion: concerns about sharing data `10 min`

@@ -4,7 +4,7 @@ teaching: null
 exercises: null
 duration: 15
 day: 1
-order: 243750
+order: 193750
 summary: Time to get some tea/coffee/etc. and rest your eyes and brain a bit.
 questions: null
 objectives: null

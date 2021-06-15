@@ -9,6 +9,7 @@ objectives:
   - Understand what the workshop will contain.
   - Understand how to access resources, ask for help, and give feedback.
   - "Identify reasons for sharing your research data. "
+  - Identify and mitigate concerns about sharing data
 keypoints:
   - Data sharing is the process of making research data available for wider
     dissemination

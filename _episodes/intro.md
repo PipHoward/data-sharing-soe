@@ -1,6 +1,6 @@
 ---
 title: Introduction
-teaching: 15
+teaching: 10
 exercises: 20
 questions:
   - What is data sharing?

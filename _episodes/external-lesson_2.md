@@ -6,13 +6,16 @@ duration: null
 summary: Presenting the key points from the DCC's data sharing checklist.
 questions:
   - Which data should we share?
-  - How much time/money will it cost?
+  - How does this fit into your research pipeline?
+  - What policies/issues do I need to be aware of?
 objectives:
   - Understand how the key data sharing questions relate to your work
+  - Identify what you will need to consider, when planning to share data
 keypoints:
-  - There are several common reasons for sharing data, including verification of
-    results and further analysis.
-  - Sharing data has time and money costs - who is paying them?
+  - "It is important to think carefully about the plans for your data, as early
+    as possible in your research pipeline. "
+  - Key things to consider are policies and ethics.
+  - Sharing data has time and (potential) money costs - who is paying then?
 is-break: null
 ukrn_wb_rules: []
 day: 1

@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Introduction to Data Sharing
 teaching: 10
 exercises: 20
 questions:

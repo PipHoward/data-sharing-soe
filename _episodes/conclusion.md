@@ -29,3 +29,5 @@ When you come to need the data in a few months or years, you won't have to worry
 Stay in touch, and let us know how you get on with open data: if you need a refresher you can always come back to this website, or [get in touch](mailto:{{ site.instructor_emails[0] }}?Subject={{ site.title}} Workshop) with us for further help!
 
 Please do make sure that you [fill out the survey]({{ site.post_survey }}) before you end: the survey helps us and the central UKRN team understand how the training is being used and how it can be improved.
+
+## Further Resources

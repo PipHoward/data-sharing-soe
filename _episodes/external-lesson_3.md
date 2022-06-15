@@ -1,8 +1,8 @@
 ---
 title: How/Where to share data?
-teaching: 5
-exercises: 25
-duration: null
+teaching: null
+exercises: null
+duration: 20
 summary: A discussion about data licensing - what kind of options are there, and
   what are the pros and cons?
 questions:

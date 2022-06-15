@@ -1,7 +1,7 @@
 ---
 title: Considerations and Planning
 teaching: null
-exercises: 35
+exercises: 30
 duration: null
 summary: Presenting the key points from the DCC's data sharing checklist.
 questions:

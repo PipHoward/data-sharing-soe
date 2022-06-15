@@ -32,16 +32,16 @@ duration: 30
 ---
 Today we will be exploring the principles and practicalities of [sharing research data](https://osf.io/wp4zu/). 
 
+> ## Presentation: Introduction to data sharing `10 min`
+> - You can view the slides here. 
+{: .challenge}
+
 > ## Share data for the benefit of:
 > * The research community
 > * The research funders
 > * The public
 > * The researcher (you!)
 {: .checklist}
-
-> ## Presentation: Introduction to data sharing `10 min`
-> - You can view the slides here. 
-{: .challenge}
 
 > ## What could the data be used for?
 > * **Reproducibility**: ensuring your data are consistent with the reported results.

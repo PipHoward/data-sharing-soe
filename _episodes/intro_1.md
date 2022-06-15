@@ -36,3 +36,37 @@ Meta-data - You will need to provide the maximum amount of information needed to
 #### Support Resources
 
 [University of Bristol Data Management Guidance](http://www.bristol.ac.uk/staff/researchers/data/)
+
+UKRN Logo
+Open Research Workshop Builder
+Info
+Select workshop
+Customize workshop
+Schedule
+Construct schedule
+Special files
+Day 1
+
+## What is anonymisation?
+
+Anonymisation is the process of turning data from which individual people can be identified into data from which individual people cannot be identified.
+
+Pseudonymisation is the process of turning data from which individual people can be identified into data from which individual people can only be identified using other, non-shared information.
+
+> > ## Resources
+> > * [UK Data Service](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/anonymisation/quantitative.aspx)
+> > * [Finnish Social Science Data Archive](https://www.fsd.tuni.fi/en/services/data-management-guidelines/anonymisation-and-identifiers/#anonymisation-of-quantitative-data)
+> > * [UK Information Commissioner's Office Guidance, Appendix 2](https://ico.org.uk/media/1061/anonymisation-code.pdf)
+> > * [Consortium of European Social Science Data Archives](https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide/5.-Protect/Anonymisation)
+> > * **what else can you find?** 
+> >   * Guidance from your institution
+> >   * Guidance from your government
+> >   * Papers from others in your field
+> >   * Good old web search
+> {: .solution}
+{: .discussion}
+
+## Further Guidance
+
+> [UK Data Service guidance for anonymising qualitative data](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/anonymisation/qualitative.aspx)
+>[UK Data Service guidance for anonymising quantitative data](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/anonymisation.aspx)

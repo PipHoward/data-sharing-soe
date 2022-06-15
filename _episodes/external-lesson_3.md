@@ -162,10 +162,12 @@ The definition of commercial can vary - in some cases textbooks or academic arti
 * **CC-BY-NC-SA 4.0** includes a sharealike clause alongside the non-commerical requirement
 * **NCGL** is designed to minimise attribution stacking with a minimal acknowledgement notice, and has no sharealike requirement
 
-> ## Discussion `15 min`
-> Which licensing approach seems most relevant for your data?
+> ## Discussion `10 min`
+> Which repository seems most appropriate for your data?
+>
+> Which licensing approach seems most relevant for your data? Note that this might differ between projects...
 > 
-> Does that approach suit all your data from all your projects? 
+
 {: .discussion}
 
 ## Further reading

@@ -51,19 +51,19 @@ The Digital Curation Centre (DCC) has a wealth of expert guidance on data sharin
 > * **Ethics and consent**
 {: .checklist}
 
-> ## Discussion `10 min`
-> Which of the policies and considerations above are relevant to your research?
-> 
-> Does your institution have a data sharing policy? 
-> 
-> Do other considerations or policies apply to your research not mentioned here?
-{: .discussion}
-
 ## Attaining consent to share
 
 Inform participants about what data will be stored, how it will be preserved, how it is likely to be used in the long-term, and how confidential it will be protected. The UK Data Service has a bank of example sharing-friendly forms for different types of data. Ensure consent forms do not promise to destroy the data or promise that the data will only be seen or accessed by the research team
 > * [UK Data Service guidance on seeking participant consent to share data](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/consent-data-sharing.aspx)
 > * [Example wordings](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/consent-data-sharing/consent-forms.aspx)
+
+> ## Discussion `10 min`
+> Which of the policies and considerations above are relevant to your research?
+> 
+> Do other considerations or policies apply to your research not mentioned here?
+> 
+> When would you need to think about these things, in your research pipeline?
+{: .discussion}
 
 > ## Costs of sharing
 > * **Curation**: getting the data in an open format; adding metadata and creating a data dictionary.

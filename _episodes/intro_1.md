@@ -37,17 +37,7 @@ Meta-data - You will need to provide the maximum amount of information needed to
 
 [University of Bristol Data Management Guidance](http://www.bristol.ac.uk/staff/researchers/data/)
 
-UKRN Logo
-Open Research Workshop Builder
-Info
-Select workshop
-Customize workshop
-Schedule
-Construct schedule
-Special files
-Day 1
-
-## What is anonymisation?
+## Anonymisation
 
 Anonymisation is the process of turning data from which individual people can be identified into data from which individual people cannot be identified.
 
@@ -70,3 +60,6 @@ Pseudonymisation is the process of turning data from which individual people can
 
 > [UK Data Service guidance for anonymising qualitative data](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/anonymisation/qualitative.aspx)
 >[UK Data Service guidance for anonymising quantitative data](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/anonymisation.aspx)
+
+## Discussion
+> Think of some recent data you have worked with. What would you need to do to implement the FAIR principles?

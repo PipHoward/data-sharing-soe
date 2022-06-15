@@ -1,7 +1,7 @@
 ---
 title: Introduction to Data Sharing
-teaching: 10
-exercises: 20
+teaching: null
+exercises: null
 questions:
   - What is data sharing?
   - Why is data sharing important?

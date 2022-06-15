@@ -1,7 +1,7 @@
 ---
 title: Introduction
 teaching: 10
-exercises: 20
+exercises: 15
 questions:
   - What is data sharing?
   - Why is data sharing important?
@@ -27,7 +27,7 @@ dependencies: []
 originalRepository: mjaquiery/jspsych-born-open-data
 summary: A friendly welcome to the workshop, a little bit of housekeeping, and
   an overview of what we'll be doing.
-duration: 35
+duration: 25
 
 ---
 Today we will be exploring the principles and practicalities of [sharing research data](https://osf.io/wp4zu/). 

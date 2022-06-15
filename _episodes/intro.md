@@ -52,7 +52,6 @@ Today we will be exploring the principles and practicalities of [sharing researc
 {: .checklist}
 
 > ## Discussion: Why share data? `10 min`
-> - Why might you want to share data?
 > - Who has shared data before?
 >   - What was the experience like?
 {: .challenge}

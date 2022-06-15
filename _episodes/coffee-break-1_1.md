@@ -1,8 +1,8 @@
 ---
-title: Coffee
+title: Break
 teaching: null
 exercises: null
-duration: 15
+duration: 10
 day: 1
 order: 193750
 summary: Time to get some tea/coffee/etc. and rest your eyes and brain a bit.

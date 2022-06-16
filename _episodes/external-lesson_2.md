@@ -3,19 +3,19 @@ title: Considerations and Planning
 teaching: null
 exercises: null
 duration: 30
-summary: Presenting the key points from the DCC's data sharing checklist.
+summary: ""
 questions:
   - Which data should we share?
   - How does this fit into your research pipeline?
   - What policies/issues do I need to be aware of?
 objectives:
-  - Understand how the key data sharing questions relate to your work
   - Identify what you will need to consider, when planning to share data
 keypoints:
   - "It is important to think carefully about the plans for your data, as early
     as possible in the research pipeline. "
   - Key things to consider are policies and ethics.
   - Sharing data has time and (potential) money costs.
+  - "Data management plans can help with this process. "
 is-break: null
 ukrn_wb_rules: []
 day: 1

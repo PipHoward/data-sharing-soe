@@ -63,15 +63,18 @@ The Digital Curation Centre (DCC) has a wealth of expert guidance on data sharin
 > When would you need to think about these things, in your research pipeline?
 {: .discussion}
 
+## Data management plans
+
+Data management plans are extremely useful and advised to help you make plans about your data, at all stages of the research process (this is often usually required with funding applications). Data management plans involve describing any research data youintend to create, how this data will be stored during the lifetime of a project and how valuable data will be shared after the project has ended.
+
+Resources: 
+The DCC are responsible for the widely-used [DMPonline data management plan form](https://dmponline.dcc.ac.uk/).
+[Bristol guidance on writing a data managemen plan](https://www.bristol.ac.uk/staff/researchers/data/writing-a-data-management-plan/)
+
 > ## Costs of sharing
 > * **Curation**: getting the data in an open format; adding metadata and creating a data dictionary.
 > * **Storage**: housing in a repository and keeping available.
 {: .checklist}
-
-## Data management plan
-
-The DCC are responsible for the widely-used [DMPonline data management plan form](https://dmponline.dcc.ac.uk/).
-Bristol also has guidance on data management plans, including estimated costs (if there are any): [Bristol guidance on writing a data managemen plan](https://www.bristol.ac.uk/staff/researchers/data/writing-a-data-management-plan/)
 
 > ## Discussion `5 min`
 > 

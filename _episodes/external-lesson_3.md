@@ -9,9 +9,8 @@ questions:
   - What is a license?
   - How do I choose a license?
 objectives:
-  - Identify a data repository that would suit your data.
-  - Understand the main issues in licensing.
-  - Know what license suits your data.
+  - Identify a data repository that might suit your data.
+  - Know what license might suits your data.
 keypoints:
   - "There are a range of data repositories to choose from. Take time to explore
     these and choose the most appropriate for your data. "

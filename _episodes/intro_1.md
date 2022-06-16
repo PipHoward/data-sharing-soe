@@ -1,7 +1,7 @@
 ---
 title: Preparing data for sharing
-teaching: 10
-exercises: 20
+teaching: null
+exercises: null
 questions: []
 objectives:
   - Understand how to access data management resources and support.
@@ -12,8 +12,8 @@ order: 250000
 missingDependencies: []
 dependencies: []
 originalRepository: mjaquiery/jspsych-born-open-data
-summary: A friendly welcome to the workshop, a little bit of housekeeping, and
-  an overview of what we'll be doing.
+summary: ""
+duration: 20
 
 ---
 Research data should be shared in line with the [FAIR sharing principles](https://www.go-fair.org/fair-principles/):

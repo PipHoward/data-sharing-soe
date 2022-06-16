@@ -6,7 +6,10 @@ questions: []
 objectives:
   - Understand how to access data management resources and support.
   - "Review data management practices. "
-keypoints: []
+keypoints:
+  - "When sharing data, best practice is to follow the FAIR principles. "
+  - "Preparing data for sharing is much easier, if how this will be done is
+    planned early on in the pipeline and implemented 'as you go'. "
 day: 1
 order: 250000
 missingDependencies: []

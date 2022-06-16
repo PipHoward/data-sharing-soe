@@ -2,14 +2,21 @@
 title: Preparing data for sharing
 teaching: null
 exercises: null
-questions: []
+questions:
+  - How do we anonymize data?
 objectives:
   - Understand how to access data management resources and support.
   - "Review data management practices. "
+  - Gain an understanding of how to anonymise data
 keypoints:
   - "When sharing data, best practice is to follow the FAIR principles. "
   - "Preparing data for sharing is much easier, if how this will be done is
     planned early on in the pipeline and implemented 'as you go'. "
+  - Anonymised data are easier to share legally.
+  - >+
+    Remove direct identifiers and reduce precision to stop outliers leading to
+    identification.
+
 day: 1
 order: 250000
 missingDependencies: []

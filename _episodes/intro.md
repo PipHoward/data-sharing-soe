@@ -7,7 +7,6 @@ questions:
   - Why is data sharing important?
 objectives:
   - Understand what the workshop will contain.
-  - Understand how to access resources, ask for help, and give feedback.
   - "Identify reasons for sharing your research data. "
   - Identify and mitigate concerns about sharing data
 keypoints:
@@ -25,8 +24,7 @@ order: 81250
 missingDependencies: []
 dependencies: []
 originalRepository: mjaquiery/jspsych-born-open-data
-summary: A friendly welcome to the workshop, a little bit of housekeeping, and
-  an overview of what we'll be doing.
+summary: A friendly welcome to the workshop and an introduction to data sharing.
 duration: 30
 
 ---

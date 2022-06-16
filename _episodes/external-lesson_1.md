@@ -20,8 +20,8 @@ keypoints:
   - Consider the potential for reidentification by cross-tabulating fields
 is-break: null
 ukrn_wb_rules: []
-day: 1
-order: 300000
+day: ""
+order: 100000
 missingDependencies: []
 dependencies: []
 originalRepository: mjaquiery/ukrn-wb-lesson-examples

@@ -18,7 +18,7 @@ keypoints:
     identification.
 
 day: 1
-order: 250000
+order: 209375
 missingDependencies: []
 dependencies: []
 originalRepository: mjaquiery/jspsych-born-open-data

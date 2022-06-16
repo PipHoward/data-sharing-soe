@@ -36,7 +36,7 @@ originalRepository: mjaquiery/ukrn-wb-lesson-examples
 ## A few repository options to explore...
 - Bristol data repository: [data.bris](https://www.bristol.ac.uk/staff/researchers/data/publishing-research-data/)
 - [ReShare](https://reshare.ukdataservice.ac.uk/) (UK data service)
-- [Open Science Framework](https://osf.io/)
+- [Open Science Framework](https://osf.io/) (OSF)
 
 ## What is the OSF?
 
@@ -46,7 +46,7 @@ The OSF is built and supported by the Center for Open Science ([https://cos.io/]
 The OSF platform allows researchers to organise projects, store data, create registrations, and publish preprints. 
 Projects can be subdivided into components, for which public and private sharing, collaborations, licensing, and DOIs can be individually managed.
 
-## What can the OSF do for me?
+### What can the OSF do for me?
 
 The key capabilities of the OSF which matter to most researchers are project management, data storage, and collaboration.
 The aim of the OSF is to be useful enough _to working researchers_ that the sharing and registration features are simply useful additions.
@@ -88,8 +88,6 @@ Because the platform records when things were uploaded, it can establish primacy
 At any stage, you can create a frozen copy of your project as a registration, alongside a registration document which details your current plans for your project.
 This is a good way of tracing the evolution of a project and ensuring that confirmatory tests are distinct from exploratory tests.
 
-## No matter where you decide to share your data, you will need to choose a license.
-
 ## What is a license?
 
 Roughly, in lay terms, when you put in work to create or curate something, you acquire _rights_ over that thing. 
@@ -105,7 +103,7 @@ To help them understand what they can and can't do, and to give them a legal bas
 If you don't include a waiver or a license people will not know how they can legally and appropriately use your work.
 **Include a license**.
 
-## How do I choose a license?
+### How do I choose a license?
 
 * Licenses used by others in your field
 * Funder/Institution/Government requirements/guidance
@@ -165,12 +163,12 @@ The definition of commercial can vary - in some cases textbooks or academic arti
 > ## Discussion `10 min`
 > Which repository seems most appropriate for your data?
 >
-> Which licensing approach seems most relevant for your data? You can use the liscence tool to help with this! Note that this might differ between projects...
+> What controls (if any) would you want a license to attribute to your data? Note that this might differ between projects...
 > 
-
 {: .discussion}
 
 ## Further reading
 * [Digital Curation Centre Data License Guide](https://www.dcc.ac.uk/guidance/how-guides/license-research-data)
 * [CESSDA License Training](https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide/6.-Archive-Publish/Publishing-with-CESSDA-archives/Licensing-your-data)
 * [Data Carpentry Licensing Blogpost](https://datacarpentry.org/blog/2016/06/data-licensing)
+* [License picker tool](http://ufal.github.io/public-license-selector/)

@@ -16,9 +16,9 @@ keypoints:
     opportunities for scientific enquiry through the promotion of innovation via
     new data uses and collaboration. It maximises transparency and helps ensure
     the reliability of the scientific record.
+  - "Most concerns about sharing data can be resolved by careful planning and
+    documentation. "
   - Generally, if you can share data, do.
-  - Most concerns about sharing data can be resolved by careful planning and
-    documentation
 day: 1
 order: 81250
 missingDependencies: []

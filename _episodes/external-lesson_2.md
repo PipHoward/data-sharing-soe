@@ -13,9 +13,9 @@ objectives:
   - Identify what you will need to consider, when planning to share data
 keypoints:
   - "It is important to think carefully about the plans for your data, as early
-    as possible in your research pipeline. "
+    as possible in the research pipeline. "
   - Key things to consider are policies and ethics.
-  - Sharing data has time and (potential) money costs - who is paying then?
+  - Sharing data has time and (potential) money costs.
 is-break: null
 ukrn_wb_rules: []
 day: 1

@@ -37,28 +37,17 @@ Research data should be shared in line with the [FAIR sharing principles](https:
   * By supplying meta-data (e.g., README, data dictionary) which explains the variables, we will make it possible for others to understand our dataset
 
 To achieve this you will need to consider:
-File naming conventions
-Meta-data - You will need to provide the maximum amount of information needed to recreate/reproduce this data
-*README files
-*Data dictionary
+* File naming conventions
+* Metadata - You will need to provide the maximum amount of information needed to recreate/reproduce this data
 * Quality checks as you go along (e.g., is it sensible and readable to other people?)
-
-> > ## Resource
-> > * [University of Bristol Data Management Guidance](http://www.bristol.ac.uk/staff/researchers/data/)
-
-## Anonymisation
-
-Anonymisation is the process of turning data from which individual people can be identified into data from which individual people cannot be identified.
-
-Pseudonymisation is the process of turning data from which individual people can be identified into data from which individual people can only be identified using other, non-shared information.
+* Anonymisation - Anonymisation is the process of turning data from which individual people can be identified into data from which individual people cannot be identified. Pseudonymisation is the process of turning data from which individual people can be identified into data from which individual people can only be identified using other, non-shared information.
 
 > > ## Resources
-> > * [UK Data Service](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/anonymisation/quantitative.aspx)
-> > * [Finnish Social Science Data Archive](https://www.fsd.tuni.fi/en/services/data-management-guidelines/anonymisation-and-identifiers/#anonymisation-of-quantitative-data)
-> > * [UK Information Commissioner's Office Guidance, Appendix 2](https://ico.org.uk/media/1061/anonymisation-code.pdf)
-> > * [Consortium of European Social Science Data Archives](https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide/5.-Protect/Anonymisation)
-> [UK Data Service guidance for anonymising qualitative data](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/anonymisation/qualitative.aspx)
->[UK Data Service guidance for anonymising quantitative data](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/anonymisation.aspx)
+> > * [University of Bristol data management guidance](http://www.bristol.ac.uk/staff/researchers/data/) (for help with metadata)
+> > * [UK Data Service guidance for anonymising qualitative data](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/anonymisation/qualitative.aspx)
+>> * [UK Data Service guidance for anonymising quantitative data](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/anonymisation.aspx)
+> > * [Consortium of European Social Science Data Archives](https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide/5.-Protect/Anonymisation) (anonymisation guidance)
+
 
 ## Discussion
 > Think of some recent data you have worked with. What would you need to do to implement the FAIR principles?

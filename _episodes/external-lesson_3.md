@@ -26,25 +26,24 @@ dependencies: []
 originalRepository: mjaquiery/ukrn-wb-lesson-examples
 
 ---
-## What is a data repository?
+## Things to consider when choosing a data repository
+- Disciplinary norms
+- Funder policy
+- Do you need to regulate access?
+- Personal preferences
 
+## A few repository options to explore...
+- Bristol data repository: [data.bris](https://www.bristol.ac.uk/staff/researchers/data/publishing-research-data/)
+- [ReShare](https://reshare.ukdataservice.ac.uk/) (UK data service)
+- [Open Science Framework](https://osf.io/)
 
 ## What is the OSF?
 
-The OSF ([https://osf.io/](https://osf.io/)) is an online collaboration and project management platform for research projects. 
+The OSF  is an online collaboration and project management platform for research projects. 
 The OSF is built and supported by the Center for Open Science ([https://cos.io/](https://cos.io/)), a non-profit organisation for increasing the openness, integrity, and reproducibility of research.
 
 The OSF platform allows researchers to organise projects, store data, create registrations, and publish preprints. 
 Projects can be subdivided into components, for which public and private sharing, collaborations, licensing, and DOIs can be individually managed.
-
-> ## Discussion `5 min`
-> Why should I use the OSF instead of...?
->
-> Take a few minutes to discuss with the group your current approach to project management. 
-> * Is it the same for others in your team/lab/field? 
-> * Do you work with collaborators? 
-> * How do you share files?
-{: .discussion}
 
 ## What can the OSF do for me?
 
@@ -88,7 +87,7 @@ Because the platform records when things were uploaded, it can establish primacy
 At any stage, you can create a frozen copy of your project as a registration, alongside a registration document which details your current plans for your project.
 This is a good way of tracing the evolution of a project and ensuring that confirmatory tests are distinct from exploratory tests.
 
-
+## No matter where you decide to share your data, you will need to choose a license.
 
 ## What is a license?
 
@@ -165,7 +164,7 @@ The definition of commercial can vary - in some cases textbooks or academic arti
 > ## Discussion `10 min`
 > Which repository seems most appropriate for your data?
 >
-> Which licensing approach seems most relevant for your data? Note that this might differ between projects...
+> Which licensing approach seems most relevant for your data? You can use the liscence tool to help with this! Note that this might differ between projects...
 > 
 
 {: .discussion}

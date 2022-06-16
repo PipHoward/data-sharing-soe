@@ -3,18 +3,19 @@ title: Where to share your data
 teaching: null
 exercises: null
 duration: 20
-summary: A discussion about data licensing - what kind of options are there, and
-  what are the pros and cons?
+summary: ""
 questions:
+  - "Where should I share my data? "
   - What is a license?
-  - What licenses are there?
   - How do I choose a license?
 objectives:
+  - Identify a data repository that would suit your data.
   - Understand the main issues in licensing.
   - Know what license suits your data.
 keypoints:
+  - "There are a range of data repositories to choose from. Take time to explore
+    these and choose the most appropriate for your data. "
   - Licenses let you control who can do what with your work.
-  - Licenses are not a substitute for strong community norms.
   - Using a well-known license makes it easier for users and automated systems
     to understand and respect.
 is-break: null

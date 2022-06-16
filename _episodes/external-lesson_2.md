@@ -53,7 +53,8 @@ The Digital Curation Centre (DCC) has a wealth of expert guidance on data sharin
 >
 >Inform participants about what data will be stored, how it will be preserved, how it is likely to be used in the long-term, and how confidential it will be protected. The UK Data Service has a bank of example sharing-friendly forms for different types of data. Ensure consent forms do not promise to destroy the data or promise that the data will only be seen or accessed by the research team
 > * [UK Data Service guidance on seeking participant consent to share data](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/consent-data-sharing.aspx)
-> * [Example wordings](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/consent-data-sharing/consent-forms.aspx)
+> * [UK Data Service example consent form clause wording](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/consent-data-sharing/consent-forms.aspx)
+> * [Bristol examples and information on good consent form clause wording](http://www.bristol.ac.uk/staff/researchers/data/dealing-with-sensitive-data/) - getting permission for data sharing written into consent forms BEFORE the start of study is essential to being able to share data at the end.
 
 > ## Discussion `10 min`
 > Which of the policies and considerations above are relevant to your research?

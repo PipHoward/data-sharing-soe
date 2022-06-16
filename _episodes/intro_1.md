@@ -3,11 +3,13 @@ title: Preparing data for sharing
 teaching: null
 exercises: null
 questions:
-  - How do we anonymize data?
+  - What information do I need to include with shared data?
+  - How can I make sure my shared data is valuable?
 objectives:
-  - Understand how to access data management resources and support.
-  - "Review data management practices. "
-  - Gain an understanding of how to anonymise data
+  - "Understand the FAIR principles. "
+  - "Identify how the FAIR principles might apply to your data. "
+  - "Identify resources to support implementing the FAIR principles and
+    supporting you with anonymization. "
 keypoints:
   - "When sharing data, best practice is to follow the FAIR principles. "
   - "Preparing data for sharing is much easier, if how this will be done is

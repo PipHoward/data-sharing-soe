@@ -1,5 +1,5 @@
 ---
-title: Where to share
+title: Where to share your data
 teaching: null
 exercises: null
 duration: 20

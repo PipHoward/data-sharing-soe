@@ -33,9 +33,8 @@ Meta-data - You will need to provide the maximum amount of information needed to
 *Data dictionary
 * Quality checks as you go along (e.g., is it sensible and readable to other people?)
 
-#### Support Resources
-
-[University of Bristol Data Management Guidance](http://www.bristol.ac.uk/staff/researchers/data/)
+> > ## Resource
+> > * [University of Bristol Data Management Guidance](http://www.bristol.ac.uk/staff/researchers/data/)
 
 ## Anonymisation
 
@@ -48,16 +47,6 @@ Pseudonymisation is the process of turning data from which individual people can
 > > * [Finnish Social Science Data Archive](https://www.fsd.tuni.fi/en/services/data-management-guidelines/anonymisation-and-identifiers/#anonymisation-of-quantitative-data)
 > > * [UK Information Commissioner's Office Guidance, Appendix 2](https://ico.org.uk/media/1061/anonymisation-code.pdf)
 > > * [Consortium of European Social Science Data Archives](https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide/5.-Protect/Anonymisation)
-> > * **what else can you find?** 
-> >   * Guidance from your institution
-> >   * Guidance from your government
-> >   * Papers from others in your field
-> >   * Good old web search
-> {: .solution}
-{: .discussion}
-
-## Further Guidance
-
 > [UK Data Service guidance for anonymising qualitative data](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/anonymisation/qualitative.aspx)
 >[UK Data Service guidance for anonymising quantitative data](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/anonymisation.aspx)
 

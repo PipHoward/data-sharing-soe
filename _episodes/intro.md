@@ -48,12 +48,14 @@ Today we will be exploring the principles and practicalities of [sharing researc
 > ## Value to the public
 > * Shared data maximised the value of publicly funded research and reduces data duplication
 > * Transparency can contribute to better-informed decision making e.g., policy, social choices, personal lifestyle and health
+{: .checklist}
 
 > ## Value to research funders
 > * Data sharing is now often mandatory - funding bodies must maximize the value of research funds
 > * Shared data can be used for verification of performance metrics and outcomes
 > * Shared data enables the advancement of the current research and creates potential for new research - increased return on investment
 > * Shared data reduces data duplication - reducing expenditure 
+{: .checklist}
 
 > ## Discussion: Who has shared data before? `5 min`
 >   - What was the experience like?

@@ -6,7 +6,6 @@ questions:
   - What is data sharing?
   - Why is data sharing important?
 objectives:
-  - Understand what the workshop will contain.
   - "Identify reasons for sharing your research data. "
   - Identify and mitigate concerns about sharing data
 keypoints:

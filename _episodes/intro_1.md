@@ -35,12 +35,12 @@ Research data should be shared in line with the [FAIR sharing principles](https:
   * By giving our data an appropriate license, we will ensure people are clear about how the data can be used
   * By supplying meta-data (e.g., README, data dictionary) which explains the variables, we will make it possible for others to understand our dataset
 
-To achieve this you will need to consider:
-* **File naming conventions**
-* **Software accessibility**
-* **Metadata** - You will need to provide the maximum amount of information needed to recreate/reproduce this data
-* **Quality checks** as you go along (e.g., is it sensible and readable to other people?)
-* **Anonymisation** - Anonymisation is the process of turning data from which individual people can be identified into data from which individual people cannot be identified. Pseudonymisation is the process of turning data from which individual people can be identified into data from which individual people can only be identified using other, non-shared information.
+> ## To achieve this you will need to consider:
+> * **File naming conventions**
+> * **Software accessibility**
+> * **Metadata** - You will need to provide the maximum amount of information needed to recreate/reproduce this data
+> * **Quality checks** as you go along (e.g., is it sensible and readable to other people?)
+> * **Anonymisation** - Anonymisation is the process of turning data from which individual people can be identified into data from which individual people cannot be identified. Pseudonymisation is the process of turning data from which individual people can be identified into data from which individual people can only be identified using other, non-shared information.
 {: .checklist}
 
 > > ## Resources

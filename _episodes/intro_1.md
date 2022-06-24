@@ -42,6 +42,7 @@ To achieve this you will need to consider:
 * **Metadata** - You will need to provide the maximum amount of information needed to recreate/reproduce this data
 * **Quality checks** as you go along (e.g., is it sensible and readable to other people?)
 * **Anonymisation** - Anonymisation is the process of turning data from which individual people can be identified into data from which individual people cannot be identified. Pseudonymisation is the process of turning data from which individual people can be identified into data from which individual people can only be identified using other, non-shared information.
+{: .checklist}
 
 > > ## Resources
 > > * [University of Bristol data management guidance](http://www.bristol.ac.uk/staff/researchers/data/) (for help with metadata)

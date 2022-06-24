@@ -10,7 +10,7 @@ questions:
   - How do I choose a license?
 objectives:
   - Identify a data repository that might suit your data.
-  - Know what license might suits your data.
+  - Know what license might suit your data.
 keypoints:
   - "There are a range of data repositories to choose from. Take time to explore
     these and choose the most appropriate for your data. "
@@ -26,16 +26,18 @@ dependencies: []
 originalRepository: mjaquiery/ukrn-wb-lesson-examples
 
 ---
-## Things to consider when choosing a data repository
-- Disciplinary norms
-- Funder policy
-- Do you need to regulate access?
-- Personal preferences
+> ## Things to consider when choosing a data repository
+> * Disciplinary norms
+> * Funder policy
+> * Do you need to regulate access?
+> * Personal preferences
+{: .checklist}
 
-## A few repository options to explore...
-- Bristol data repository: [data.bris](https://www.bristol.ac.uk/staff/researchers/data/publishing-research-data/)
-- [ReShare](https://reshare.ukdataservice.ac.uk/) (UK data service)
-- [Open Science Framework](https://osf.io/) (OSF)
+> ## A few repository options to explore...
+> * Bristol data repository: [data.bris](https://www.bristol.ac.uk/staff/researchers/data/publishing-research-data/)
+> * [ReShare](https://reshare.ukdataservice.ac.uk/) (UK data service)
+> * [Open Science Framework](https://osf.io/) (OSF)
+{: .checklist}
 
 ## What is the OSF?
 
@@ -102,11 +104,11 @@ To help them understand what they can and can't do, and to give them a legal bas
 If you don't include a waiver or a license people will not know how they can legally and appropriately use your work.
 **Include a license**.
 
-### How do I choose a license?
-
-* Licenses used by others in your field
-* Funder/Institution/Government requirements/guidance
-* [License picker tool](http://ufal.github.io/public-license-selector/)
+> ### How do I choose a license? Consider:
+> * Licenses used by others in your field
+> * Funder/Institution/Government requirements/guidance
+> * [License picker tool](http://ufal.github.io/public-license-selector/)
+{: .checklist}
 
 ## What common data licenses are there to choose?
 

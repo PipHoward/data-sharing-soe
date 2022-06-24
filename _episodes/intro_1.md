@@ -16,7 +16,6 @@ keypoints:
     planned early on in the pipeline and implemented 'as you go'. "
   - Anonymised data are easier to share legally. Remove direct identifiers and
     reduce precision to stop outliers leading to identification.
-  - "\n"
 day: 1
 order: 209375
 missingDependencies: []

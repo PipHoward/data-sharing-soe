@@ -50,7 +50,7 @@ To achieve this you will need to consider:
 >> * [UK Data Service guidance for anonymising quantitative data](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/anonymisation.aspx)
 > > * [Consortium of European Social Science Data Archives](https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide/5.-Protect/Anonymisation) (anonymisation guidance)
 
-## Discussion `10 min`
+> ## Discussion `10 min`
 > 
 > Think of some recent data you have worked with. What would you need to do to implement the FAIR principles?
 > 

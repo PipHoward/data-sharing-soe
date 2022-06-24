@@ -104,7 +104,7 @@ To help them understand what they can and can't do, and to give them a legal bas
 If you don't include a waiver or a license people will not know how they can legally and appropriately use your work.
 **Include a license**.
 
-> ### How do I choose a license? Consider:
+> ## How do I choose a license? Consider:
 > * Licenses used by others in your field
 > * Funder/Institution/Government requirements/guidance
 > * [License picker tool](http://ufal.github.io/public-license-selector/)

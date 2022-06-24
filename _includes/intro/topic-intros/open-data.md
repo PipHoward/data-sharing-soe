@@ -5,7 +5,6 @@ This training will teach researchers to:
 * **find repositories**
 * use appropriate **data formats**
 * manage **metadata** (information describing datasets)
-* ensure **non-identifiability** (for researchers working with human data)
 
 _Open Data training introduces you to the fundamentals of data sharing and
 provides you with practical tools for sharing real data. It also acts as a

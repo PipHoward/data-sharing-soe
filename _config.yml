@@ -228,6 +228,8 @@ ukrn_wb:
           - null
           - null
           - - _includes/intro/optional
+instructors:
+  - Philippa Howard
 
 ---
 null
